@@ -1,0 +1,5 @@
+name: Arch
+
+include:
+  - file: arch-common.yml
+    relativeToMasterFile: true
